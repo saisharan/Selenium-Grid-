@@ -10,4 +10,5 @@ java -Dwebdriver.chrome.driver=D:\chromedriver_win_19.0.1068.0\chromedriver.exe 
 3.To start Hub:
 
 java -jar selenium-server-standalone.jar -role hub -hubConfig hubconfig.json
+c
 
