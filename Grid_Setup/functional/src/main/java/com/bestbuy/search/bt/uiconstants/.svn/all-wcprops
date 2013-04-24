@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants
+END
+MerchandisingUIIdentifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/MerchandisingUIIdentifiers.java
+END
+ReadCreateAndUpdateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/ReadCreateAndUpdateData.java
+END
+MerchandisingUIData.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/MerchandisingUIData.java
+END
+MerchandisingUI_UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/repos/phresco-customer-projects/!svn/ver/419/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/MerchandisingUI_UserInfo.java
+END
+ModifyDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/phresco-customer-projects/!svn/ver/696/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/ModifyDateTime.java
+END
+ReadXMLFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/phresco-customer-projects/!svn/ver/518/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/ReadXMLFile.java
+END
+Env_Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/phresco-customer-projects/!svn/ver/419/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/main/java/com/bestbuy/search/bt/uiconstants/Env_Config.java
+END

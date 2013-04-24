@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases
+END
+SynonymsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/phresco-customer-projects/!svn/ver/678/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/SynonymsTest.java
+END
+BoostBlockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/repos/phresco-customer-projects/!svn/ver/678/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/BoostBlockTest.java
+END
+FacetsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/phresco-customer-projects/!svn/ver/693/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/FacetsTest.java
+END
+KeywordRedirectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/KeywordRedirectTest.java
+END
+UserAdminTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/phresco-customer-projects/!svn/ver/678/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/UserAdminTest.java
+END
+BannersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/phresco-customer-projects/!svn/ver/678/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/BannersTest.java
+END
+LoginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/phresco-customer-projects/!svn/ver/678/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/LoginTest.java
+END
+FacetOrderingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/FacetOrderingTest.java
+END
+PromoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/phresco-customer-projects/!svn/ver/714/BestBuy/Search%20Platform/business_tools/trunk/bt/test/functional/src/test/java/com/bestbuy/search/bt/testcases/PromoTest.java
+END
